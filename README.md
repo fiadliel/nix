@@ -1,0 +1,5 @@
+* Stuff
+
+```
+nix-store -r
+```
